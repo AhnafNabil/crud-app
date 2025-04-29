@@ -37,7 +37,7 @@ function App() {
         </main>
         <footer className="app-footer">
           <div className="container">
-            <p>&copy; {new Date().getFullYear()} CRUD Application</p>
+            <p>Poridhi Crud Application</p>
           </div>
         </footer>
       </div>
